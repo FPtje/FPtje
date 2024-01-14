@@ -1,0 +1,8 @@
+{
+    // Demands that the first line is a header
+    "MD041": false,
+    // Inline HTML
+    "MD033": false,
+    // Line length
+    "MD013": false
+}
