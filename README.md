@@ -37,6 +37,7 @@
 
 </div>
 
-* Master's thesis: [Type directives in Elm](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/22810/thesis.pdf?sequence=2)
-* Channable Blog: [Bottlenecked on Haskell's text library](https://www.channable.com/tech/bottlenecked-on-haskells-text-library)
+* Channable Blog: [Haskell's problem with exploding call stacks](https://www.channable.com/tech/haskell-exploding-call-stacks)
 * Channable Blog (co-authored): [Nix is the ultimate DevOps toolkit](https://www.channable.com/tech/nix-is-the-ultimate-devops-toolkit)
+* Channable Blog: [Bottlenecked on Haskell's text library](https://www.channable.com/tech/bottlenecked-on-haskells-text-library)
+* Master's thesis: [Type directives in Elm](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/22810/thesis.pdf?sequence=2)
