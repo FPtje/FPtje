@@ -6,8 +6,8 @@
 
 * 🎮 Main developer of several popular addons for [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/)
 * 🖥️ Fell in love with Haskell during my Bachelor's at Utrecht University, and continued working with it through my master's, and subsequent professional work
-* 📠 Currently work at [Channable](https://www.channable.com) as Infra Team Lead
-* 🦜 Hobbies include bird watching and programming
+* 📠 Currently work at [Channable](https://www.channable.com) as Team Lead for a core product facing team
+* 🦜 Hobbies include bird watching, programming and learning Spanish
 
 <div align="center">
 
