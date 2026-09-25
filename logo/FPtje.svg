@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <mask id="cutout">
+      <rect width="100%" height="100%" fill="white" />
+      <!-- Transparent hole cutout -->
+      <circle cx="325" cy="170" r="38" fill="black" />
+    </mask>
+    <!-- Path for the curved "Lua Scripter" text -->
+    <path id="textPath" d="M 35 210 A 240 240 0 0 1 290 55" fill="none" />
+  </defs>
+
+  <!-- Main Large Circle with Cutout -->
+  <circle cx="250" cy="285" r="195" fill="#f67300" mask="url(#cutout)" />
+
+  <!-- Top Right Small Circle -->
+  <circle cx="402" cy="70" r="37" fill="#f67300" />
+
+  <!-- Central "FPtje" Text -->
+  <text x="250" y="405" fill="#ffffff" font-family="Ubuntu, 'Trebuchet MS', 'Segoe UI', sans-serif" font-size="105" font-weight="bold" text-anchor="middle">FPtje</text>
+
+  <!-- Curved "Lua Scripter" Text -->
+  <text fill="#858585" font-family="Ubuntu, 'Trebuchet MS', 'Segoe UI', sans-serif" font-size="40" font-weight="bold" letter-spacing="2">
+    <textPath href="#textPath" startOffset="8%">Lua Scripter</textPath>
+  </text>
+</svg>
