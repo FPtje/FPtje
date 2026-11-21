@@ -20,6 +20,7 @@
 * [Glualint](https://github.com/FPtje/GLuaFixer) - A linter and formatter for Garry's mod's flavour of Lua. Available on four platforms and GitHub Actions.
 * [Glualint-web](https://fptje.github.io/glualint-web/) - Fully clientside web version of glualint, built on the now somewhat dated [GHCJS](https://github.com/ghcjs/ghcjs)
 * [VSCode Semaphore CI plugin](https://github.com/FPtje/vscode-semaphore-ci) ([marketplace](https://marketplace.visualstudio.com/items?itemName=FPtje.semaphoreci)) - Plugin for VS Code to interact with [Semaphore CI](https://semaphoreci.com)
+* [Better Watch Calendar](https://github.com/FPtje/better-watch-calendar) - A simple Wear OS + Android app that shows me when my next meeting is, right on my watch
 
 <div align="center">
 
