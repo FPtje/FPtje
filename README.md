@@ -15,12 +15,13 @@
 
 </div>
 
+* [Better Watch Calendar](https://github.com/FPtje/better-watch-calendar) - A simple Wear OS + Android app that shows me when my next meeting is, right on my watch
+* [Better Weiview](https://github.com/FPtje/better-weiview) - An android app to connect to an ear camera, much simpler and more up to date than the original Weiview app
 * [DarkRP](https://github.com/FPtje/DarkRP) ([workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=248302805)) - A roleplay gamemode for Garry's Mod. Not originally created by me, but I have been its main developer since 2008. It has been the most popular gamemode for years
 * [Falco's Prop Protection](https://github.com/FPtje/Falcos-Prop-protection) ([workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=133537219)) - An addon for Garry's mod that handles access management for the contraptions built by players
 * [Glualint](https://github.com/FPtje/GLuaFixer) - A linter and formatter for Garry's mod's flavour of Lua. Available on four platforms and GitHub Actions.
 * [Glualint-web](https://fptje.github.io/glualint-web/) - Fully clientside web version of glualint, built on the now somewhat dated [GHCJS](https://github.com/ghcjs/ghcjs)
 * [VSCode Semaphore CI plugin](https://github.com/FPtje/vscode-semaphore-ci) ([marketplace](https://marketplace.visualstudio.com/items?itemName=FPtje.semaphoreci)) - Plugin for VS Code to interact with [Semaphore CI](https://semaphoreci.com)
-* [Better Watch Calendar](https://github.com/FPtje/better-watch-calendar) - A simple Wear OS + Android app that shows me when my next meeting is, right on my watch
 
 <div align="center">
 
